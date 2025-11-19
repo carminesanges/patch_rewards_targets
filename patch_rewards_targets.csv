@@ -1,0 +1,9 @@
+name,url
+curl,https://github.com/curl/curl.git
+zlib,https://github.com/madler/zlib.git
+libpng,https://github.com/glennrp/libpng.git
+libxml2,https://gitlab.gnome.org/GNOME/libxml2.git
+jsoncpp,https://github.com/open-source-parsers/jsoncpp.git
+protobuf,https://github.com/protocolbuffers/protobuf.git
+boringssl,https://github.com/google/boringssl.git
+tiff,https://gitlab.com/libtiff/libtiff.git
